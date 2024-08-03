@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "address.url",
+    "type": "java.lang.String",
+    "description": "A description for 'address.url'"
+  },
+  {
+    "name": "address.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'address.service.url'"
+  },
+  {
+    "name": "address.service.ur",
+    "type": "java.lang.String",
+    "description": "A description for 'address.service.ur'"
+  },
+  {
+    "name": "eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka'"
+  },
+  {
+    "name": "serviceUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'serviceUrl'"
+  },
+  {
+    "name": "client",
+    "type": "java.lang.String",
+    "description": "A description for 'client'"
+  },
+  {
+    "name": "serviceUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'serviceUrl'"
+  },
+  {
+    "name": "serviceUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'serviceUrl'"
+  },
+  {
+    "name": "defaultZone",
+    "type": "java.lang.String",
+    "description": "A description for 'defaultZone'"
+  },
+  {
+    "name": "instance",
+    "type": "java.lang.String",
+    "description": "A description for 'instance'"
+  },
+  {
+    "name": "appname",
+    "type": "java.lang.String",
+    "description": "A description for 'appname'"
+  },
+  {
+    "name": "defaultZone",
+    "type": "java.lang.String",
+    "description": "A description for 'defaultZone'"
+  },
+  {
+    "name": "defaultZone",
+    "type": "java.lang.String",
+    "description": "A description for 'defaultZone'"
+  },
+  {
+    "name": "management.metrics.export.zipkin.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.metrics.export.zipkin.enabled'"
+  }
+]}
